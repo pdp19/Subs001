@@ -1,0 +1,8 @@
+flask
+flask-cors
+pymongo
+PyJWT
+python-dotenv
+werkzeug
+dnspython
+requests
